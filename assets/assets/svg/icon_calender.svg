@@ -1,0 +1,31 @@
+<svg data-name="Icons / bottom" height="18" id="Icons_bottom" viewBox="0 0 18 18" width="18"
+    xmlns="http://www.w3.org/2000/svg">
+    <g id="calendar" transform="translate(0.75 0.75)">
+        <path
+            d="M15.855,11.344A.645.645,0,0,0,16.5,10.7V3.867a2.581,2.581,0,0,0-2.578-2.578h-.838V.645a.645.645,0,0,0-1.289,0v.645H8.862V.645a.645.645,0,0,0-1.289,0v.645h-2.9V.645a.645.645,0,0,0-1.289,0v.645H2.578A2.581,2.581,0,0,0,0,3.867V13.922A2.581,2.581,0,0,0,2.578,16.5H13.922A2.581,2.581,0,0,0,16.5,13.922a.645.645,0,0,0-1.289,0,1.291,1.291,0,0,1-1.289,1.289H2.578a1.291,1.291,0,0,1-1.289-1.289V3.867A1.291,1.291,0,0,1,2.578,2.578h.806v.645a.645.645,0,0,0,1.289,0V2.578h2.9v.645a.645.645,0,0,0,1.289,0V2.578h2.933v.645a.645.645,0,0,0,1.289,0V2.578h.838a1.291,1.291,0,0,1,1.289,1.289V10.7A.645.645,0,0,0,15.855,11.344Z"
+            fill="#7065e4" id="Path" />
+        <circle cx="0.645" cy="0.645" fill="#7065e4" id="Oval" r="0.645"
+            transform="translate(3.384 6.123)" />
+        <circle cx="0.645" cy="0.645" data-name="Oval" fill="#7065e4" id="Oval-2" r="0.645"
+            transform="translate(8.991 6.123)" />
+        <circle cx="0.645" cy="0.645" data-name="Oval" fill="#7065e4" id="Oval-3" r="0.645"
+            transform="translate(11.795 6.123)" />
+        <circle cx="0.645" cy="0.645" data-name="Oval" fill="#7065e4" id="Oval-4" r="0.645"
+            transform="translate(3.384 8.927)" />
+        <circle cx="0.645" cy="0.645" data-name="Oval" fill="#7065e4" id="Oval-5" r="0.645"
+            transform="translate(3.384 11.73)" />
+        <circle cx="0.645" cy="0.645" data-name="Oval" fill="#7065e4" id="Oval-6" r="0.645"
+            transform="translate(6.188 6.123)" />
+        <circle cx="0.645" cy="0.645" data-name="Oval" fill="#7065e4" id="Oval-7" r="0.645"
+            transform="translate(6.188 8.927)" />
+        <circle cx="0.645" cy="0.645" data-name="Oval" fill="#7065e4" id="Oval-8" r="0.645"
+            transform="translate(6.188 11.73)" />
+        <circle cx="0.645" cy="0.645" data-name="Oval" fill="#7065e4" id="Oval-9" r="0.645"
+            transform="translate(8.991 8.927)" />
+        <circle cx="0.645" cy="0.645" data-name="Oval" fill="#7065e4" id="Oval-10" r="0.645"
+            transform="translate(11.795 8.927)" />
+        <circle cx="0.645" cy="0.645" data-name="Oval" fill="#7065e4" id="Oval-11" r="0.645"
+            transform="translate(8.991 11.73)" />
+    </g>
+    <rect fill="none" height="18" id="Rectangle" width="18" />
+</svg>

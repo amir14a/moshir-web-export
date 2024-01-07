@@ -1,0 +1,8 @@
+<svg height="40" id="alarm" viewBox="0 0 40 40" width="40" xmlns="http://www.w3.org/2000/svg">
+  <rect fill="#fff" height="40" id="Rectangle" rx="10" width="40" />
+  <g id="Icon_back_" transform="translate(10 10)">
+    <path
+        d="M.167,7.154l5.139,5.864a.829.829,0,0,0,1.129.149.756.756,0,0,0,0-1.08L1.7,6.689l4.731-5.4a.81.81,0,0,0,0-1.128c-.382-.351-.9-.06-1.13.2L.166,6.223A.733.733,0,0,0,.167,7.154Z"
+        fill="#2c5981" id="Chevron_Right" transform="translate(5.833 3.333)" />
+  </g>
+</svg>
