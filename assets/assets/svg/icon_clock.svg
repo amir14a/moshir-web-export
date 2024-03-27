@@ -1,0 +1,12 @@
+<svg data-name="Icons / calendar" height="16" id="Icons_calendar" viewBox="0 0 16 16" width="16"
+    xmlns="http://www.w3.org/2000/svg">
+    <g id="time" transform="translate(0.667 0.667)">
+        <path
+            d="M12.519,2.148A7.333,7.333,0,0,0,2.148,12.519a7.336,7.336,0,0,0,8.98,1.091.573.573,0,1,0-.594-.98,6.242,6.242,0,1,1,1.937-1.862.573.573,0,1,0,.953.637,7.315,7.315,0,0,0-.905-9.256Z"
+            fill="#fff" id="Path" />
+        <path
+            d="M2.842,0a.573.573,0,0,0-.573.573V4.919l-2.1,2.1a.573.573,0,1,0,.81.81L3.247,5.561a.573.573,0,0,0,.168-.405V.573A.573.573,0,0,0,2.842,0Z"
+            data-name="Path" fill="#fff" id="Path-2" transform="translate(4.492 2.177)" />
+    </g>
+    <rect fill="none" height="16" id="Rectangle" width="16" />
+</svg>
